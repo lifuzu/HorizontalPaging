@@ -1,0 +1,17 @@
+allprojects {
+    repositories {
+        mavenCentral()
+        maven {
+            url "http://repo.commonsware.com"
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
